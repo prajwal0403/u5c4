@@ -1,5 +1,70 @@
 {
-    "users": [
-      
-    ]
-  }
+  "users": [
+    {
+      "name": "prajwal",
+      "password": "dada",
+      "location": "kolkata",
+      "interests": [
+        "technology",
+        "food"
+      ],
+      "image": "allahu ",
+      "subscribed": [],
+      "id": 1
+    },
+    {
+      "name": "prajwal",
+      "password": "dada",
+      "location": "kolkata",
+      "interests": [
+        "technology",
+        "food"
+      ],
+      "image": "allahu ",
+      "subscribed": [],
+      "id": 2
+    }
+  ],
+  "meetups": [
+    {
+      "id": 1,
+      "title": "Saunter Strech",
+      "location": "bangalore",
+      "date": "2022-03-25",
+      "time": "19:59",
+      "theme": "technology",
+      "description": "Random Event 1",
+      "image": "https://image.shutterstock.com/image-vector/business-illustration-people-having-meeting-260nw-668883295.jpg"
+    },
+    {
+      "id": 2,
+      "title": "kkr riders",
+      "location": "kolkata",
+      "date": "2022-03-26",
+      "time": "20:59",
+      "theme": "tropicana",
+      "description": "Random Event 2",
+      "image": "https://media.istockphoto.com/photos/woman-asking-question-at-neighborhood-meeting-in-community-center-picture-id1145049554?k=20&m=1145049554&s=612x612&w=0&h=xi5n5CurVgXeF3q8x8anF4E9oMQg_PdW2RMo63veR2s="
+    },
+    {
+      "id": 3,
+      "title": "Delhi Capitals",
+      "location": "delhi",
+      "date": "2022-03-27",
+      "time": "21:59",
+      "theme": "science",
+      "description": "Random Event 3",
+      "image": "https://previews.123rf.com/images/rawpixel/rawpixel1412/rawpixel141204379/34402170-global-business-people-reuni%C3%B3n-ciudad-de-trabajo-concepto.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Mumbai Indians",
+      "location": "mumbai",
+      "date": "2022-03-28",
+      "time": "22:59",
+      "theme": "sports",
+      "description": "Random Event 4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-NKVaUFkVewZT4JTyPYXGLKAs2wtSE4Rygw&usqp=CAU"
+    }
+  ]
+}
